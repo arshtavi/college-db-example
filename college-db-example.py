@@ -186,8 +186,3 @@ fall2018.lookup_course('505') #using course number - can be int or string
 fall2018.lookup_course('Applied Cryptography') #using course title
 fall2018.lookup_course('DLA') #using course type
 fall2018.lookup_all_students()
-
-
-
-
-
