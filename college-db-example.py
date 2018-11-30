@@ -181,7 +181,7 @@ fall2018.enroll_student(585,'DFA','Lazy Student')
 fall2018.enroll_student(585,'DFA','Good Student')
 
 fall2018.lookup_student('11111111') #using CWID - can be int or string
-fall2018.lookup_student('Bill Gtes') #using name
+fall2018.lookup_student('Bill Gates') #using name
 fall2018.lookup_course('505') #using course number - can be int or string
 fall2018.lookup_course('Applied Cryptography') #using course title
 fall2018.lookup_course('DLA') #using course type
